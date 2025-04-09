@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u/3fz1DK6zI=",
+  "success": true,
+  "projectFilePath": "/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/ApplicationCLI/ApplicationCLI.csproj",
+  "expectedPackageFiles": [
+    "/home/egor/.nuget/packages/nunit/4.3.2/nunit.4.3.2.nupkg.sha512",
+    "/home/egor/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/egor/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/egor/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.14/microsoft.netcore.app.host.linux-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

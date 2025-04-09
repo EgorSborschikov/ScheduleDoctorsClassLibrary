@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF2022User12Lib", "SF2022User12Lib.csproj", "{FA0C751C-E930-4A93-B817-48C010EB3344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationCLI", "ApplicationCLI\ApplicationCLI.csproj", "{86CF6D0F-5A0C-4D25-8256-69A3D5FB5B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationTests", "CalculationTests\CalculationTests.csproj", "{2B2D57AB-EF1C-40F4-B761-8D2BB9CB96E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0C751C-E930-4A93-B817-48C010EB3344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0C751C-E930-4A93-B817-48C010EB3344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0C751C-E930-4A93-B817-48C010EB3344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0C751C-E930-4A93-B817-48C010EB3344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86CF6D0F-5A0C-4D25-8256-69A3D5FB5B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CF6D0F-5A0C-4D25-8256-69A3D5FB5B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CF6D0F-5A0C-4D25-8256-69A3D5FB5B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CF6D0F-5A0C-4D25-8256-69A3D5FB5B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2D57AB-EF1C-40F4-B761-8D2BB9CB96E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2D57AB-EF1C-40F4-B761-8D2BB9CB96E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2D57AB-EF1C-40F4-B761-8D2BB9CB96E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2D57AB-EF1C-40F4-B761-8D2BB9CB96E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

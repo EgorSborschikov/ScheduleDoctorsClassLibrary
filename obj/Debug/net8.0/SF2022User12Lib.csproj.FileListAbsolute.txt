@@ -1,0 +1,13 @@
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/bin/Debug/net8.0/SF2022User12Lib.deps.json
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/bin/Debug/net8.0/SF2022User12Lib.dll
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/bin/Debug/net8.0/SF2022User12Lib.pdb
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/obj/Debug/net8.0/SF2022User12Lib.csproj.AssemblyReference.cache
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/obj/Debug/net8.0/SF2022User12Lib.GeneratedMSBuildEditorConfig.editorconfig
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/obj/Debug/net8.0/SF2022User12Lib.AssemblyInfoInputs.cache
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/obj/Debug/net8.0/SF2022User12Lib.AssemblyInfo.cs
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/obj/Debug/net8.0/SF2022User12Lib.csproj.CoreCompileInputs.cache
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/obj/Debug/net8.0/SF2022User12Lib.sourcelink.json
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/obj/Debug/net8.0/SF2022User12Lib.dll
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/obj/Debug/net8.0/refint/SF2022User12Lib.dll
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/obj/Debug/net8.0/SF2022User12Lib.pdb
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/obj/Debug/net8.0/ref/SF2022User12Lib.dll
