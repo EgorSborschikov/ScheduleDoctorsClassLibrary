@@ -356,6 +356,19 @@
             "related": ".xml"
           }
         }
+      },
+      "SF2022User12Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "NUnit": "4.3.2"
+        },
+        "compile": {
+          "bin/placeholder/SF2022User12Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SF2022User12Lib.dll": {}
+        }
       }
     }
   },
@@ -808,6 +821,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "SF2022User12Lib/1.0.0": {
+      "type": "project",
+      "path": "../SF2022User12Lib.csproj",
+      "msbuildProject": "../SF2022User12Lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -816,6 +834,7 @@
       "NUnit >= 4.3.2",
       "NUnit.Analyzers >= 3.9.0",
       "NUnit3TestAdapter >= 4.5.0",
+      "SF2022User12Lib >= 1.0.0",
       "coverlet.collector >= 6.0.0"
     ]
   },
@@ -844,7 +863,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/SF2022User12Lib.csproj": {
+              "projectPath": "/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/SF2022User12Lib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

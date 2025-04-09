@@ -12,6 +12,7 @@
           "NUnit": "4.3.2",
           "NUnit.Analyzers": "3.9.0",
           "NUnit3TestAdapter": "4.5.0",
+          "SF2022User12Lib": "1.0.0",
           "coverlet.collector": "6.0.0"
         },
         "runtime": {
@@ -310,7 +311,18 @@
       },
       "NUnit.Analyzers/3.9.0": {},
       "NUnit3TestAdapter/4.5.0": {},
-      "System.Reflection.Metadata/1.6.0": {}
+      "System.Reflection.Metadata/1.6.0": {},
+      "SF2022User12Lib/1.0.0": {
+        "dependencies": {
+          "NUnit": "4.3.2"
+        },
+        "runtime": {
+          "SF2022User12Lib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -395,6 +407,11 @@
       "sha512": "sha512-COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
       "path": "system.reflection.metadata/1.6.0",
       "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
+    },
+    "SF2022User12Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

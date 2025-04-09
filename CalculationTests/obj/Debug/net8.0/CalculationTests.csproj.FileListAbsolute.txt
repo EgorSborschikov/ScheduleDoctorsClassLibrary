@@ -96,3 +96,6 @@
 /home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/CalculationTests/obj/Debug/net8.0/CalculationTests.pdb
 /home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/CalculationTests/obj/Debug/net8.0/CalculationTests.genruntimeconfig.cache
 /home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/CalculationTests/obj/Debug/net8.0/ref/CalculationTests.dll
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/CalculationTests/bin/Debug/net8.0/CoverletSourceRootsMapping_CalculationTests
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/CalculationTests/bin/Debug/net8.0/SF2022User12Lib.dll
+/home/egor/Documents/study/MDR-01-02_testing-programming_modules/SF2022User12Lib/CalculationTests/bin/Debug/net8.0/SF2022User12Lib.pdb
