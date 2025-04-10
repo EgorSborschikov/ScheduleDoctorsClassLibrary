@@ -3,15 +3,28 @@ using System.Collections.Generic;
 using SF2022User12Lib;
 
 /// <summary>
-/// Консольное приложение с использованием разработанной библиотеки классов
+/// Консольное приложение с примером использованием разработанной библиотеки классов
 /// </summary>
-
 public class Program
 {
     public static void Main()
     {
-        // Создаем экземпляр класса Calculation
+        // Создается экземпляр класса Calculation для упращения обращения к методу этого класса
         Calculation calculation = new Calculation();
+
+        // Вывод шаблона ввода данных пользователю на консоль терминала
+        Console.WriteLine("Пример ввода данных:");
+        Console.WriteLine("Ввод:");
+        Console.WriteLine("Время\t\t| Длительность");
+        Console.WriteLine("08:00-08:30\t| 30");
+        Console.WriteLine("10:00-10:30\t| 30");
+        Console.WriteLine("11:00-11:30\t| 30");
+        Console.WriteLine("15:00-15:10\t| 10");
+        Console.WriteLine("15:30-15:40\t| 10");
+        Console.WriteLine("16:30-16:40\t| 10");
+        Console.WriteLine("Время работы: 08:00-18:00");
+        Console.WriteLine("Время консультации: 30 минут");
+        Console.WriteLine();
 
         // Запрос у пользователя входных данных
         Console.WriteLine("Введите количество занятых интервалов:");
@@ -53,9 +66,10 @@ public class Program
 
         // Вывод результата
         Console.WriteLine("Свободные временные интервалы:");
+        Console.WriteLine("Время\t\t| Длительность");
         foreach (var interval in freeIntervals)
         {
-            Console.WriteLine(interval);
+            Console.WriteLine(interval.Replace(" - ", "\t| "));
         }
     }
 }

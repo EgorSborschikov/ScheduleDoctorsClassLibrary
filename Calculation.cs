@@ -17,7 +17,7 @@ public class Calculation
         // Список для хранения занятых интервалов
         List<(TimeSpan start, TimeSpan end)> busyIntervals = new List<(TimeSpan start, TimeSpan end)>();
         
-        // Заполняем список занятых интервалов
+        // Заполнение список занятых интервалов
         for (int i = 0; i < startTimes.Count; i++)
         {
             busyIntervals.Add((startTimes[i], startTimes[i].Add(TimeSpan.FromMinutes(durations[i]))));

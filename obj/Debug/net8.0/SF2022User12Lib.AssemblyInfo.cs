@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SF2022User12Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2322124fafe8ddc27491dc45d817311b53ffd8f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a1ec73a75d7f4e9a86145869acc9ec345702309")]
 [assembly: System.Reflection.AssemblyProductAttribute("SF2022User12Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SF2022User12Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
